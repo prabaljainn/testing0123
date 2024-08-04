@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mission>
+    <flight>
+        <item index="1" name="MAV_CMD_NAV_TAKEOFF">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>50.0</option7>
+        </item>
+        <item index="2" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>1.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="3" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>1.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="4" name="MAV_CMD_NAV_WAYPOINT">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>35.661342086377104</option5>
+            <option6>139.76191912170412</option6>
+            <option7>50.0</option7>
+        </item>
+        <item index="5" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>10</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="6" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>1</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="7" name="MAV_CMD_DO_DIGICAM_CONTROL">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>1</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="8" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>2</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="9" name="MAV_CMD_NAV_WAYPOINT">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>35.662039437987914</option5>
+            <option6>139.76342115875246</option6>
+            <option7>60.0</option7>
+        </item>
+        <item index="10" name="MAV_CMD_DO_DIGICAM_CONTROL">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>1</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="11" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>2.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="12" name="MAV_CMD_NAV_WAYPOINT">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>35.66139438795919</option5>
+            <option6>139.76464424606326</option6>
+            <option7>50.0</option7>
+        </item>
+        <item index="13" name="MAV_CMD_CONDITION_YAW">
+            <frame>3</frame>
+            <option1>50</option1>
+            <option2>60</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="14" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>3</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="15" name="MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW">
+            <frame>3</frame>
+            <option1>-10</option1>
+            <option2>50</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="16" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>1</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="17" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>1</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="18" name="MAV_CMD_DO_DIGICAM_CONTROL">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>1</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="19" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>2</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="20" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>1.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="21" name="MAV_CMD_NAV_WAYPOINT">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>35.66036578389041</option5>
+            <option6>139.76421509262087</option6>
+            <option7>40.0</option7>
+        </item>
+        <item index="22" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>1.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="23" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>3.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="24" name="MAV_CMD_NAV_WAYPOINT">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>35.66012637924719</option5>
+            <option6>139.7629061746216</option6>
+            <option7>70.0</option7>
+        </item>
+        <item index="25" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>3.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="26" name="MAV_CMD_DO_CHANGE_SPEED">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>1.0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="27" name="MAV_CMD_NAV_WAYPOINT">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>35.66045762706483</option5>
+            <option6>139.7617689179993</option6>
+            <option7>50.0</option7>
+        </item>
+        <item index="28" name="MAV_CMD_NAV_DELAY">
+            <frame>3</frame>
+            <option1>300</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+        <item index="29" name="MAV_CMD_NAV_RETURN_TO_LAUNCH">
+            <frame>3</frame>
+            <option1>0</option1>
+            <option2>0</option2>
+            <option3>0</option3>
+            <option4>0</option4>
+            <option5>0</option5>
+            <option6>0</option6>
+            <option7>0</option7>
+        </item>
+    </flight>
+    <speaker>
+        <item index="1">
+            <mission_no>22</mission_no>
+            <command name="speaker_start">
+                <param name="sound_no">
+                    <value>1</value>
+                </param>
+                <param name="volume">
+                    <value>61</value>
+                </param>
+                <param name="times">
+                    <value>0</value>
+                </param>
+                <param name="interval">
+                    <value>5</value>
+                </param>
+            </command>
+        </item>
+        <item index="2">
+            <mission_no>25</mission_no>
+            <command name="speaker_stop"/>
+        </item>
+        <item index="3">
+            <mission_no>28</mission_no>
+            <command name="speaker_start">
+                <param name="sound_no">
+                    <value>1</value>
+                </param>
+                <param name="volume">
+                    <value>61</value>
+                </param>
+                <param name="times">
+                    <value>5</value>
+                </param>
+                <param name="interval">
+                    <value>5</value>
+                </param>
+            </command>
+        </item>
+    </speaker>
+</mission>
