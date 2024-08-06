@@ -11,15 +11,15 @@
             <option6>0</option6>
             <option7>50.0</option7>
         </item>
-        <item index="2" name="MAV_CMD_DO_CHANGE_SPEED">
+        <item index="2" name="MAV_CMD_NAV_WAYPOINT">
             <frame>3</frame>
             <option1>0</option1>
-            <option2>1.0</option2>
+            <option2>0</option2>
             <option3>0</option3>
             <option4>0</option4>
-            <option5>0</option5>
-            <option6>0</option6>
-            <option7>0</option7>
+            <option5>35.661342086377104</option5>
+            <option6>139.76191912170412</option6>
+            <option7>50.0</option7>
         </item>
         <item index="3" name="MAV_CMD_DO_CHANGE_SPEED">
             <frame>3</frame>
